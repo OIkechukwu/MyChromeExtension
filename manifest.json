@@ -1,0 +1,8 @@
+{
+ "name": "MyChromeExtension",
+ "version": "1.0",
+ "chrome_url_override": {
+     "newtab": "index.html"
+ },
+ "manifest_version": 2   
+}
